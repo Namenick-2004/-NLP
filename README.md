@@ -2,6 +2,11 @@
 
 Web Application แชตบอตที่ตอบคำถามเกี่ยวกับ **การประมวลผลภาษาธรรมชาติ (NLP)** จากคลังเอกสารความรู้ภาษาไทย ด้วยเทคนิค **RAG (Retrieval-Augmented Generation)** พัฒนาด้วย Streamlit และ Gemini API
 
+## 🔗 ลิงก์โปรเจกต์
+
+- **Web Application:** https://nlp-buddy-rag.streamlit.app
+- **GitHub Repository:** https://github.com/Namenick-2004/-NLP
+
 > แบบทดสอบเก็บคะแนนครั้งที่ 2 วิชา NLP
 
 ## แนวคิดของ Domain
