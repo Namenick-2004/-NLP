@@ -1,0 +1,15 @@
+id,question,expected_answer,answerable,source_file
+1,NLP ย่อมาจากอะไรและหมายถึงอะไร,Natural Language Processing สาขาของ AI ที่ทำให้คอมพิวเตอร์เข้าใจ ตีความ และสร้างภาษามนุษย์,yes,01_what_is_nlp.md
+2,เอนจินตัดคำค่าเริ่มต้นของ PyThaiNLP คืออะไร,newmm (ใช้ Maximum Matching ร่วมกับ Thai Character Cluster),yes,02_thai_tokenization.md
+3,ทำไมงานวิเคราะห์ความรู้สึกจึงไม่ควรลบคำว่า "ไม่" ทิ้ง,เพราะ "ไม่" กลับความหมายของประโยค ถ้าลบ "ไม่ชอบ" จะกลายเป็น "ชอบ",yes,03_text_preprocessing.md
+4,Word2Vec มีสถาปัตยกรรมอะไรบ้าง,CBOW และ Skip-gram,yes,04_word_embedding.md
+5,Self-Attention ใช้เวกเตอร์ใดบ้างในการคำนวณ,Query (Q) Key (K) และ Value (V),yes,05_transformer.md
+6,BERT ฝึกล่วงหน้าด้วยงานอะไรบ้าง,Masked Language Modeling (MLM) และ Next Sentence Prediction (NSP),yes,06_bert_wangchanberta.md
+7,ชุดข้อมูล wisesight_sentiment มีกี่คลาสและอะไรบ้าง,4 คลาส คือ pos neu neg และ q,yes,07_text_classification_sentiment.md
+8,ในรูปแบบ BIO ตัวอักษร B I O หมายถึงอะไร,B = โทเคนแรกของหน่วยข้อมูล I = โทเคนที่ตามมาในหน่วยเดียวกัน O = ไม่ใช่หน่วยข้อมูล,yes,08_ner_pos.md
+9,ตัววัดอะไรที่นิยมใช้กับการสรุปความอัตโนมัติ,ROUGE,yes,09_translation_summarization.md
+10,ขนาด Chunk ที่นิยมในระบบ RAG คือเท่าไหร่,ประมาณ 300 ถึง 1000 ตัวอักษร พร้อม Overlap ประมาณ 10-20%,yes,10_rag_basics.md
+11,Temperature ค่าต่ำให้ผลอย่างไร,คำตอบคงที่และตรงไปตรงมา เหมาะกับงานตอบจากเอกสาร,yes,12_llm_prompting.md
+12,ราคาหุ้นของ Google วันนี้เท่าไหร่,ไม่พบข้อมูลในเอกสาร,no,
+13,วิธีทำต้มยำกุ้งต้องใช้วัตถุดิบอะไรบ้าง,ไม่พบข้อมูลในเอกสาร,no,
+14,Qwen3 มีกี่พารามิเตอร์,ไม่พบข้อมูลในเอกสาร,no,

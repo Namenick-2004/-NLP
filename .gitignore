@@ -1,0 +1,11 @@
+# ห้ามอัปโหลด API Key ขึ้น GitHub
+.streamlit/secrets.toml
+.env
+*.env
+
+__pycache__/
+*.pyc
+*.log
+.venv/
+venv/
+.DS_Store
